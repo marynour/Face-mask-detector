@@ -1,0 +1,11 @@
+tensorflow
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy
+pathlib
+pymysql
+pillow
+scikit-learn
